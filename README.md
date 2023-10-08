@@ -32,5 +32,27 @@
 
   test
 
+  ## License
+
+  This project is licensed under the MIT license.
+
+  ## Contributing
+
+  test
+
+  ## Tests
+
+  To run the following command:
+
+  ```
+  npm test
+  ```
+
+  ### Questions
+
+  If you have any questions about the repo open an issue or contact me directly at lee@jsdhuh.
+
+  Tou can find more of my work at [Lee] (https://github.com/Lee).
+
 
 
