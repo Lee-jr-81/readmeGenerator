@@ -1,9 +1,9 @@
-# readme
+# readmeGenerator
   ![Github license] (https://img.shields.io/badge/license-MIT-blue.svg);
 
   ### Description
 
-  test
+  Created a simple readme generator using node.js
 
   ### Table of Contents
 
@@ -50,9 +50,9 @@
 
   ### Questions
 
-  If you have any questions about the repo open an issue or contact me directly at lee@.
+  If you have any questions about the repo open an issue or contact me directly at lee@something.com.
 
-  Tou can find more of my work at [Trevor] (https://github.com/Trevor).
+  Tou can find more of my work at [Lee-jr-81] (https://github.com/Lee-jr-81).
 
 
 
