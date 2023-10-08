@@ -1,4 +1,4 @@
-# test
+# readme
   ![Github license] (https://img.shields.io/badge/license-MIT-blue.svg);
 
   ### Description
@@ -50,9 +50,9 @@
 
   ### Questions
 
-  If you have any questions about the repo open an issue or contact me directly at lee@jsdhuh.
+  If you have any questions about the repo open an issue or contact me directly at lee@.
 
-  Tou can find more of my work at [Lee] (https://github.com/Lee).
+  Tou can find more of my work at [Trevor] (https://github.com/Trevor).
 
 
 
