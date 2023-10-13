@@ -1,57 +1,58 @@
-# readmeGenerator
+# Readme Generator
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg);
 
-![Github license] (https://img.shields.io/badge/license-MIT-blue.svg);
+  ### Description
 
-### Description
+  test
 
-Created a simple readme generator using node.js
+  ### Table of Contents
 
-### Table of Contents
+  * [Installation](#installation)
 
-- [Installation] (#installation)
+  * [Usage](#usage)
 
-- [Usage] (#usage)
+  * [License](#license)
 
-- [License] (#license)
 
-- [Contributing] (#contributing)
+  * [Contributing](#contributing)
 
-- [Test] (#tests)
+  * [Test](#tests)
 
-- [Questions] (#questions)
+  * [Questions](#questions)
 
-## Installation
+  ## Installation
 
-To install necessary dependencies, run the following command:
+  To install necessary dependencies, run the following command:
 
-```
-npm i
-```
+  ```
+  npm i
+  ```
 
-## Usage
+  ## Usage
 
-test
+  test
 
-## License
+  ## License
 
-This project is licensed under the MIT license.
+  This project is licensed under the MIT license.
 
-## Contributing
+  ## Contributing
 
-test
+  test
 
-## Tests
+  ## Tests
 
-To run the following command:
+  To run the following command:
 
-```
-npm test
-```
+  ```
+  npm test
+  ```
 
-### Questions
+  ### Questions
 
-If you have any questions about the repo open an issue or contact me directly at lee@something.com.
+  If you have any questions about the repo open an issue or contact me directly at Lee@somethingsomething.com.
 
-You can find more of my work at [Lee-jr-81] (https://github.com/Lee-jr-81).
+  Tou can find more of my work at [Lee-jr-81](https://github.com/Lee-jr-81).
 
-To see a demo of the app running here is a link to the application in process https://drive.google.com/file/d/1jkrlPu6YbRmH3zk-dmR_L8Y--XdKFyuZ/view?usp=sharing
+
+

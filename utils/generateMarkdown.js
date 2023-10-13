@@ -3,14 +3,14 @@
 //
 const renderLicenseBadge = (license) => {
   if (license !== "None") {
-    return `![Github license] (https://img.shields.io/badge/license-${license}-blue.svg)`;
+    return `![Github license](https://img.shields.io/badge/license-${license}-blue.svg)`;
   }
   return "";
 };
 // function to render license link
 const renderLicenseLink = (license) => {
   if (license !== "None") {
-    return `* [License] (#license)\n`;
+    return `* [License](#license)\n`;
   }
   return "";
 };
@@ -27,17 +27,17 @@ function generateMarkdown(data) {
 
   ### Table of Contents
 
-  * [Installation] (#installation)
+  * [Installation](#installation)
 
-  * [Usage] (#usage)
+  * [Usage](#usage)
 
   ${renderLicenseLink(data.license)}
 
-  * [Contributing] (#contributing)
+  * [Contributing](#contributing)
 
-  * [Test] (#tests)
+  * [Test](#tests)
 
-  * [Questions] (#questions)
+  * [Questions](#questions)
 
   ## Installation
 
@@ -73,7 +73,7 @@ function generateMarkdown(data) {
     data.email
   }.
 
-  Tou can find more of my work at [${data.github}] (https://github.com/${
+  Tou can find more of my work at [${data.github}](https://github.com/${
     data.github
   }).
 
