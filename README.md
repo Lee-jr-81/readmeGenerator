@@ -52,7 +52,9 @@
 
   If you have any questions about the repo open an issue or contact me directly at Lee@something.com.
 
-  Tou can find more of my work at [Lee-jr-81](https://github.com/Lee-jr-81).
+  You can find more of my work at [Lee-jr-81](https://github.com/Lee-jr-81).
+
+  Here is the Google Drive link to the demo video: https://drive.google.com/file/d/1tw5FSgJ8roziYj6qPFiVSeECZomHJ6xH/view
 
 
 
